@@ -2,13 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <Version>2.15.0-beta3</Version>
+    <Version>2.15.0-beta4</Version>
     <Description>.NET Core package that helps with Slack interactions</Description>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <PackageReleaseNotes>Add InteractiveMessagePayload for options load support
-Timepicker support
 Add optional values to PayloadAction
-    </PackageReleaseNotes>
+Fix issue where view state is sent as array</PackageReleaseNotes>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>Steven Pears</Authors>
     <Company />
